@@ -1,0 +1,9 @@
+{
+    "distance_from_store": 3.38, //float value,
+    "gender": "F", //str,
+    "credit_score": 0.59, //float
+    "total_sales": 2563.71	, //float
+    "total_items":297, //int
+    "transaction_count":44, //int
+    "product_area_id_count": 5 //int
+}
